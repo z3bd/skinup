@@ -1,2 +1,7 @@
+skinup
 skinup.py
+skinup.build
+venv
+.vscode
+
 
